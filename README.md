@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ataur Rahman</h1>
-<h3 align="center">A passionate full-Stack Web developer and React.js from Bangladesh</h3>
+<h3 align="center">A passionate full-Stack Web developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **Gujob News Archive.**
 
